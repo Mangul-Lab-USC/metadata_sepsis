@@ -1,6 +1,6 @@
 # The completeness of metadata accompanying omics studies
 
-[![Preprint Available](https://img.shields.io/badge/Preprint-online-green.svg)](https://osf.io/na5j8/)]
+[![Preprint Available](https://img.shields.io/badge/Preprint-online-green.svg)(https://osf.io/na5j8/)]
 
 This project contains the links to the datasets and the figures that were used for our study : ["Improving the completeness of public metadata accompanying omics studies"]
 
