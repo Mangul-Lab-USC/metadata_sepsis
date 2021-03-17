@@ -20,7 +20,9 @@ We carefully examined a total of 3,125 samples across 29 studies. The original p
 
 ## Description of summary data
 
-There are four CSV [files]( that were used to produce the results of the analysis.
+There are four CSV files that were used to produce the results of the analysis.
+
+* [
 
 
 # Reproducing results
