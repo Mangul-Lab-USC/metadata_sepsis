@@ -40,4 +40,4 @@ We have prepared Jupyter Notebooks that utilize the data described above to visu
 
 # Contact
 
-Please do not hesitate to contact us (smangul@usc.edu, anushkar@usc.edu) if you have any comments, suggestions, or clarification requests regarding the study or if you would like to contribute to the extended analysis involving more disease conditions.
+Please do not hesitate to contact us (mangul@usc.edu, anushkar@usc.edu) if you have any comments, suggestions, or clarification requests regarding the study or if you would like to contribute to the extended analysis involving more disease conditions.
