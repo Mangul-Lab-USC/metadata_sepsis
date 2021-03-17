@@ -22,3 +22,5 @@ We carefully examined a total of 3,125 samples across 29 studies. The original p
 # Reproducing results
 
 We have prepared Jupyter Notebooks that utilize the data described above to visualize and reproduce the results presented in our editorial. 
+
+* [Completeness of metadata results](https://github.com/Mangul-Lab-USC/Completeness-of-Metadata-Accompanying-Omics-Studies/blob/main/notebooks/sepsis_metadata_results.ipynb)
