@@ -16,4 +16,4 @@ This project contains the links to the datasets and the figures that were used f
 
 ## Archival stability
 
-We carefully examined a total of 3,125 samples across 29 studies. The original publications from journals were manually surveyed to gather information about the nine clinical phenotypes in question. The authors of these publications who own the data were contacted personally to obtain the complete data that was analyzed for that particular study. To extract metadata from the public repository, two Python scripts were used. 
+We carefully examined a total of 3,125 samples across 29 studies. The original publications from journals were manually surveyed to gather information about the nine clinical phenotypes in question. The authors of these publications who own the data were contacted personally to obtain the complete data that was analyzed for that particular study. To extract metadata from the public repository, two Python scripts were used. These scripts are available [here](https://github.com/Mangul-Lab-USC/Completeness-of-Metadata-Accompanying-Omics-Studies/tree/main/scripts)
