@@ -9,16 +9,17 @@ This project contains the links to the datasets and the figures that were used f
   * [Archival stability](#archival-stability)
   * [Description of summary data](#description-of-summary-data)
 * [Reproducing results](#reproducing-results)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
 # Datasets
 
-## Archival stability
+## Extraction of metadata
 
 We carefully examined a total of 3,125 samples across 29 studies. The original publications from journals were manually surveyed to gather information about the nine clinical phenotypes in question. The authors of these publications who own the data were contacted personally to obtain the complete data that was analyzed for that particular study. To extract metadata from the public repository, two Python scripts were used. These scripts are available [here](https://github.com/Mangul-Lab-USC/Completeness-of-Metadata-Accompanying-Omics-Studies/tree/main/scripts). The first script is used to get the files from the repository in the XML format. Further, the second script extracts the information from the XML file into a CSV file. These summary files from the repository as well as the data summarized from the original publication can be found [here](https://drive.google.com/drive/folders/1tnifubMuldAjFUlIKiLln1fLfojDMSMx?usp=sharing).
 
-## Description of summary data
+## Description of metadata accompanying sepsis studies
 
 There are four CSV files that were used to produce the results of the analysis.
 
@@ -38,6 +39,11 @@ We have prepared Jupyter Notebooks that utilize the data described above to visu
 * [Completeness of metadata results](https://github.com/Mangul-Lab-USC/Completeness-of-Metadata-Accompanying-Omics-Studies/blob/main/notebooks/sepsis_metadata_results.ipynb)
 
 
+# Acknowledgements
+
+We take this opportunity to specifically thank Jeremy Rotman for assisting to write the two Python scripts to extract metadata from NCBI GEO. We also thank Henry Fu for his help in the initial manual work of going through publications to accumulate data.
+
+
 # Contact
 
-Please do not hesitate to contact us (mangul@usc.edu, anushkar@usc.edu) if you have any comments, suggestions, or clarification requests regarding the study or if you would like to contribute to the extended analysis involving more disease conditions.
+Please do not hesitate to contact us (serghei.mangul@gmail.com, anushkar@usc.edu) if you have any comments, suggestions, or clarification requests regarding the study or if you would like to contribute to the extended analysis involving more disease conditions.
