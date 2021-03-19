@@ -6,8 +6,8 @@ This project contains the links to the datasets and the figures that were used f
 
 **Table of contents**
 * [Datasets](#datasets)
-  * [Archival stability](#archival-stability)
-  * [Description of summary data](#description-of-summary-data)
+  * [Extraction of metadata](#extraction-of-metadata)
+  * [Description of metadata accompanying sepsis studies](#description-of-metadata-accompanying-sepsis-studies)
 * [Reproducing results](#reproducing-results)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
